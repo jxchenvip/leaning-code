@@ -1,4 +1,4 @@
-# leaning-python
+# leaning-code
 
 > A Vue.js project
 
